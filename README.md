@@ -1,2 +1,2 @@
-# virgate_pipline_v1
-Satage one from python piplines for Virgate company
+# virgate_pipleine_v1
+Stage one from python pipelines for Virgate company
